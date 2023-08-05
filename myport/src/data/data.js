@@ -11,7 +11,7 @@ export const data=[
         name:"Cryptocurrency Application",
         image:crypto,
         github:"https://github.com/HermanBide/crypto_app",
-        live:"",
+        live:"https://cryptocurrency-jade-theta.vercel.app/",
     },
     {
         id:2,
