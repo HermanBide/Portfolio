@@ -25,7 +25,7 @@ export const data=[
         name:"Ecommerce Application",
         image:ecom,
         github:"https://github.com/HermanBide/Ecom-app",
-        live:"",
+        live:"https://vercel.com/hermanbide/ecom-app/25zVr5oAEVour7j6UBQm88q4Vtpu",
     },
     {
         id:4,
