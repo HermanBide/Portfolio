@@ -18,21 +18,21 @@ export const data=[
         name:"Travel-Booking Application",
         image:travel,
         github:"https://github.com/HermanBide/travel",
-        live:"",
+        live:"Under construction",
     },
     {
         id:3,
         name:"Ecommerce Application",
         image:ecom,
         github:"https://github.com/HermanBide/Ecom-app",
-        live:"https://vercel.com/hermanbide/ecom-app/25zVr5oAEVour7j6UBQm88q4Vtpu",
+        live:"https://ecom-mfkuqm5b7-hermanbide.vercel.app/",
     },
     {
         id:4,
         name:"Goal Planner Application",
         image:Goal,
         github:"https://github.com/HermanBide/goal-planner",
-        live:"https://hermanbide-porfolio.netlify.app",
+        live: "https://goal-planner.netlify.app/",
     },
 
 
